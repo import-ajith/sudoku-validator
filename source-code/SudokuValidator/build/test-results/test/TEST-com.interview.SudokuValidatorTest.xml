@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.interview.SudokuValidatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-07-30T07:26:07" hostname="AJITHLAL-PC" time="0.148">
+  <properties/>
+  <testcase name="isValidSudokuExceptionRange()" classname="com.interview.SudokuValidatorTest" time="0.116"/>
+  <testcase name="isValidSudokuValid()" classname="com.interview.SudokuValidatorTest" time="0.012"/>
+  <testcase name="isValidSudokuException()" classname="com.interview.SudokuValidatorTest" time="0.006"/>
+  <testcase name="isValidSudokuInvalid()" classname="com.interview.SudokuValidatorTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
